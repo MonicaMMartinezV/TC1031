@@ -9,9 +9,12 @@ Este proyecto se enfoca en la gestión y organización de datos de películas me
 https://drive.google.com/drive/folders/1r2dRLiijhIKzfNf3fEDy8tB5sN20ViuZ?usp=sharing
 
 **Enlace a los submits:**
-- Problema 1. Algoritmos de ordenamiento: https://leetcode.com/problems/heaters/submissions/1109818115/
-- Problema 2. Estructuras lineales: https://leetcode.com/problems/build-an-array-with-stack-operations/submissions/1109827440/
-- Problema 3. Estructuras no lineales: https://leetcode.com/problems/clone-graph/submissions/1107712393/
+- Problema 1. Algoritmos de ordenamiento:
+  https://leetcode.com/problems/heaters/submissions/1109818115/
+- Problema 2. Estructuras lineales:
+  https://leetcode.com/problems/build-an-array-with-stack-operations/submissions/1109827440/
+- Problema 3. Estructuras no lineales:
+  https://leetcode.com/problems/clone-graph/submissions/1107712393/
 
 **Proyecto: MovieMania**
 
