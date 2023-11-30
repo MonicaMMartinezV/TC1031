@@ -9,7 +9,7 @@ Este proyecto se enfoca en la gestión y organización de datos de películas me
 
 https://drive.google.com/drive/folders/1r2dRLiijhIKzfNf3fEDy8tB5sN20ViuZ?usp=sharing
 
-**Enlace a los submits:**
+**Enlace a los submissions:**
 - Problema 1. Algoritmos de ordenamiento:
   https://leetcode.com/problems/heaters/submissions/1109818115/
 - Problema 2. Estructuras lineales:
